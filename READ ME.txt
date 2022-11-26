@@ -1,0 +1,8 @@
+Running my program is straighforward. 
+
+1)Run the library import cell(s).
+2)Then run the cell that populates the dropdown with images. This cell looks for a folder called images and populate a dropdown with all the images in the folder.
+So kindly leave the structure of the folder as it is.
+
+3)Select any image from dropdown
+4) Run all remaining cells below 
